@@ -1,0 +1,40 @@
+{
+  "model_name": "Decision Tree",
+  "target": "SLA_Breached",
+  "features": [
+    "Service_Type",
+    "Requester_Type",
+    "Requested_Channel",
+    "Priority",
+    "Assigned_Office",
+    "Queue_Length",
+    "Required_Documents_Complete",
+    "SLA_Days",
+    "Submission_Weekday",
+    "Queue_Category"
+  ],
+  "train_rows": 242,
+  "test_rows": 61,
+  "accuracy": 0.7540983606557377,
+  "precision_breach": 0.47368421052631576,
+  "recall_breach": 0.6428571428571429,
+  "f1_breach": 0.5454545454545454,
+  "confusion_matrix": [
+    [
+      37,
+      10
+    ],
+    [
+      5,
+      9
+    ]
+  ],
+  "random_state": 42,
+  "test_size": 0.2,
+  "classifier_params": {
+    "max_depth": 5,
+    "class_weight": "balanced",
+    "random_state": 42
+  },
+  "note": "Reproduced from the submitted midterm notebook procedure on the uploaded Cleaned_Data worksheet."
+}
