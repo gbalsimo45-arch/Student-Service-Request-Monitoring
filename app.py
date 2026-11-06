@@ -10,7 +10,7 @@ from modules.prediction import predict_one
 from modules.dashboard import render_dashboard
 
 ROOT = Path(__file__).resolve().parent
-DEMO_PATH = ROOT / "sample_cleaned_data.csv"
+DEMO_PATH = ROOT / "student-service-requests-cleaned (1).csv"
 METRICS_PATH = ROOT / "models" / "model_metrics.json"
 
 st.set_page_config(page_title="Student Service Request Monitoring System", page_icon="🎓", layout="wide")
