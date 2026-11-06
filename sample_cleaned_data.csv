@@ -1,0 +1,401 @@
+﻿Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score,Submission_Weekday,Queue_Category,SLA_Breached
+SSR-0001,Enrollment,Student,2025-07-17,Email,Normal,Student Affairs,5,Yes,1.0,5,Completed,No,2.8,Thursday,Low,0.0
+SSR-0002,Certification,Staff,2025-07-10,Portal,Normal,Registrar,8,Yes,5.0,4,Completed,No,3.5,Thursday,Medium,1.0
+SSR-0003,Enrollment,Faculty,2025-04-09,Walk-in,High,Student Affairs,9,Yes,3.0,5,Completed,No,4.5,Wednesday,Medium,0.0
+SSR-0004,Scholarship Inquiry,Student,2025-04-13,Portal,Normal,Scholarship Office,7,Yes,,7,Pending,No,,Sunday,Medium,
+SSR-0005,Records,Staff,2025-06-05,Portal,Low,Registrar,7,Yes,1.0,5,Completed,No,1.5,Thursday,Medium,0.0
+SSR-0006,Other Campus Service,Faculty,2025-01-12,Portal,Low,Student Affairs,4,Yes,6.0,6,Completed,No,3.9,Sunday,Low,0.0
+SSR-0007,Scholarship Inquiry,Student,2025-09-08,Email,Normal,Scholarship Office,11,Yes,6.0,7,Completed,No,3.3,Monday,Medium,0.0
+SSR-0008,Enrollment,Faculty,2025-08-13,Portal,Normal,Student Affairs,11,Yes,3.0,5,Completed,No,4.7,Wednesday,Medium,0.0
+SSR-0009,Records,Student,2025-04-22,Portal,Normal,Registrar,14,No,,5,Pending,No,,Tuesday,Medium,
+SSR-0010,IT Support,Staff,2025-05-17,Walk-in,Normal,IT Services,8,Yes,,3,Completed,No,3.7,Saturday,Medium,
+SSR-0011,Certification,Student,2025-04-30,Portal,Normal,Registrar,10,Yes,2.0,4,Completed,No,4.3,Wednesday,Medium,0.0
+SSR-0012,Other Campus Service,Student,2025-08-26,Portal,High,Student Affairs,4,Yes,2.0,6,Completed,No,4.0,Tuesday,Low,0.0
+SSR-0013,Scholarship Inquiry,Student,2025-10-05,Walk-in,Normal,Scholarship Office,7,Yes,,7,Pending,No,,Sunday,Medium,
+SSR-0014,Enrollment,Faculty,2025-02-09,Portal,Normal,Student Affairs,7,No,7.0,5,Completed,No,3.1,Sunday,Medium,1.0
+SSR-0015,IT Support,Student,2025-05-31,Portal,Normal,IT Services,11,Yes,6.0,3,Completed,No,5.0,Saturday,Medium,1.0
+SSR-0016,Records,Student,2025-01-06,Walk-in,Normal,Registrar,8,Yes,,5,Pending,No,,Monday,Medium,
+SSR-0017,IT Support,Student,2025-06-15,Walk-in,Normal,IT Services,13,No,6.0,3,Completed,No,3.0,Sunday,Medium,1.0
+SSR-0018,Records,Student,2025-04-01,Portal,Normal,Registrar,13,Yes,3.0,5,Completed,No,4.1,Tuesday,Medium,0.0
+SSR-0019,Enrollment,Student,2025-05-03,Email,Normal,Student Affairs,9,Yes,4.0,5,Completed,No,4.0,Saturday,Medium,0.0
+SSR-0020,Scholarship Inquiry,Staff,2025-06-16,Portal,Low,Finance Office,5,Yes,3.0,7,Completed,No,4.1,Monday,Low,0.0
+SSR-0021,Scholarship Inquiry,Student,2025-04-29,Portal,Low,Scholarship Office,6,Yes,2.0,7,Completed,No,5.0,Tuesday,Medium,0.0
+SSR-0022,Certification,Student,2025-05-24,Portal,Low,Registrar,10,Yes,,4,Pending,No,,Saturday,Medium,
+SSR-0023,Other Campus Service,Student,2025-10-07,Portal,High,Student Affairs,14,Yes,4.0,6,Completed,No,4.5,Tuesday,Medium,0.0
+SSR-0024,Enrollment,Student,2025-10-23,Email,Normal,Student Affairs,11,No,9.0,5,Completed,No,3.1,Thursday,Medium,1.0
+SSR-0025,Enrollment,Student,2025-01-03,Email,Low,Student Affairs,11,No,,5,Cancelled,No,,Friday,Medium,
+SSR-0026,Records,Faculty,2025-05-18,Portal,High,Registrar,7,Yes,,5,Pending,No,,Sunday,Medium,
+SSR-0027,IT Support,Student,2025-11-06,Portal,Normal,IT Services,12,Yes,,3,Pending,No,,Thursday,Medium,
+SSR-0028,Records,Faculty,2025-07-13,Portal,Normal,Registrar,13,Yes,5.0,5,Completed,No,5.0,Sunday,Medium,0.0
+SSR-0029,Records,Student,2025-03-16,Walk-in,High,Registrar,12,Yes,,5,Cancelled,No,,Sunday,Medium,
+SSR-0030,Scholarship Inquiry,Faculty,2025-08-05,Portal,Low,Scholarship Office,8,Yes,6.0,7,Completed,No,4.6,Tuesday,Medium,0.0
+SSR-0031,Scholarship Inquiry,Staff,2025-02-22,Portal,Low,Scholarship Office,2,Yes,2.0,7,Completed,No,3.6,Saturday,Low,0.0
+SSR-0032,Other Campus Service,Student,2025-01-08,Portal,Normal,Student Affairs,13,Yes,4.0,6,Completed,No,5.0,Wednesday,Medium,0.0
+SSR-0033,Certification,Student,2025-08-19,Portal,Low,Registrar,10,Yes,,4,Pending,No,,Tuesday,Medium,
+SSR-0034,Certification,Faculty,2025-07-08,Email,Normal,Registrar,8,Yes,,4,Pending,No,,Tuesday,Medium,
+SSR-0035,IT Support,Student,2025-10-04,Email,Low,IT Services,9,Yes,3.0,3,Completed,No,2.9,Saturday,Medium,0.0
+SSR-0036,Records,Student,2025-05-06,Portal,Low,Registrar,4,Yes,6.0,5,Completed,No,2.6,Tuesday,Low,1.0
+SSR-0037,Records,Student,2025-11-08,Email,Low,Registrar,7,Yes,4.0,5,Completed,No,2.7,Saturday,Medium,0.0
+SSR-0038,IT Support,Student,2025-06-03,Walk-in,Normal,IT Services,8,Yes,1.0,3,Completed,Yes,2.4,Tuesday,Medium,0.0
+SSR-0039,Records,Student,2025-09-27,Portal,Low,Registrar,13,No,4.0,5,Completed,Yes,5.0,Saturday,Medium,0.0
+SSR-0040,Scholarship Inquiry,Student,2025-02-06,Portal,Low,Scholarship Office,15,Yes,,7,Completed,No,3.6,Thursday,Medium,
+SSR-0041,Certification,Faculty,2025-02-05,Portal,High,Registrar,4,No,4.0,4,Completed,No,2.8,Wednesday,Low,0.0
+SSR-0042,Enrollment,Student,2025-10-13,Email,Normal,Student Affairs,4,Yes,,5,Pending,No,,Monday,Low,
+SSR-0043,Scholarship Inquiry,Student,2025-11-01,Portal,Normal,Scholarship Office,7,Yes,3.0,7,Completed,No,4.0,Saturday,Medium,0.0
+SSR-0044,Certification,Student,2025-12-10,Portal,Low,Registrar,10,No,,4,Pending,No,,Wednesday,Medium,
+SSR-0045,Enrollment,Student,2025-04-29,Portal,Normal,Student Affairs,9,Yes,6.0,5,Completed,No,4.2,Tuesday,Medium,1.0
+SSR-0046,Enrollment,Student,2025-01-09,Walk-in,Normal,Student Affairs,6,Yes,2.0,5,Completed,No,,Thursday,Medium,0.0
+SSR-0047,Certification,Staff,2025-12-24,Portal,Normal,Registrar,9,Yes,5.0,4,Completed,No,3.5,Wednesday,Medium,1.0
+SSR-0048,Certification,Student,2025-08-08,Email,Low,Registrar,4,Yes,3.0,4,Completed,Yes,,Friday,Low,0.0
+SSR-0049,Scholarship Inquiry,Student,2025-04-01,Portal,High,Scholarship Office,8,Yes,6.0,7,Completed,No,5.0,Tuesday,Medium,0.0
+SSR-0050,Records,Student,2025-10-06,Walk-in,High,Registrar,14,Yes,4.0,5,Completed,Yes,3.8,Monday,Medium,0.0
+SSR-0051,Records,Student,2025-11-26,Portal,Low,Registrar,14,No,8.0,5,Completed,No,2.3,Wednesday,Medium,1.0
+SSR-0052,Records,Faculty,2025-04-14,Portal,Low,Registrar,10,Yes,5.0,5,Completed,No,3.6,Monday,Medium,0.0
+SSR-0053,Enrollment,Student,2025-10-08,Email,Low,Student Affairs,13,Yes,5.0,5,Completed,No,2.7,Wednesday,Medium,0.0
+SSR-0054,Scholarship Inquiry,Student,2025-10-15,Walk-in,Normal,Scholarship Office,14,Yes,5.0,7,Completed,No,4.5,Wednesday,Medium,0.0
+SSR-0055,Scholarship Inquiry,Student,2025-07-03,Portal,Low,Scholarship Office,12,Yes,4.0,7,Completed,No,3.3,Thursday,Medium,0.0
+SSR-0056,Enrollment,Student,2025-08-19,Portal,High,Student Affairs,9,Yes,6.0,5,Completed,Yes,2.8,Tuesday,Medium,1.0
+SSR-0057,IT Support,Staff,2025-04-09,Email,Normal,IT Services,10,Yes,2.0,3,Completed,No,5.0,Wednesday,Medium,0.0
+SSR-0058,IT Support,Student,2025-12-06,Walk-in,Normal,IT Services,8,Yes,3.0,3,Completed,No,,Saturday,Medium,0.0
+SSR-0059,Records,Faculty,2025-12-25,Portal,Normal,Registrar,7,Yes,3.0,5,Completed,No,4.1,Thursday,Medium,0.0
+SSR-0060,Records,Student,2025-12-25,Portal,High,Registrar,11,Yes,4.0,5,Completed,No,3.0,Thursday,Medium,0.0
+SSR-0061,Scholarship Inquiry,Student,2025-09-27,Email,Low,Scholarship Office,7,Yes,,7,Pending,No,,Saturday,Medium,
+SSR-0062,IT Support,Student,2025-01-16,Email,Normal,IT Services,13,Yes,4.0,3,Completed,No,3.1,Thursday,Medium,1.0
+SSR-0063,IT Support,Staff,2025-05-14,Email,Normal,IT Services,7,Yes,3.0,3,Completed,No,4.5,Wednesday,Medium,0.0
+SSR-0064,Scholarship Inquiry,Student,2025-06-12,Portal,High,Scholarship Office,10,Yes,1.0,7,Completed,No,3.1,Thursday,Medium,0.0
+SSR-0065,Scholarship Inquiry,Student,2025-12-17,Portal,Normal,Scholarship Office,7,Yes,4.0,7,Completed,Yes,4.2,Wednesday,Medium,0.0
+SSR-0066,IT Support,Student,2025-07-19,Walk-in,Normal,IT Services,8,Yes,1.0,3,Completed,No,3.8,Saturday,Medium,0.0
+SSR-0067,IT Support,Student,2025-07-15,Email,Low,IT Services,16,Yes,,3,Pending,No,,Tuesday,High,
+SSR-0068,Certification,Staff,2025-02-23,Email,High,Registrar,10,Yes,3.0,4,Completed,No,3.7,Sunday,Medium,0.0
+SSR-0069,Records,Student,2025-10-17,Portal,Normal,Scholarship Office,5,Yes,4.0,5,Completed,No,5.0,Friday,Low,0.0
+SSR-0070,Certification,Student,2025-05-03,Portal,Normal,Registrar,10,Yes,4.0,4,Completed,No,4.9,Saturday,Medium,0.0
+SSR-0071,Records,Student,2025-02-03,Email,High,Registrar,16,Yes,5.0,5,Completed,No,2.8,Monday,High,0.0
+SSR-0072,Certification,Student,2025-12-27,Portal,Normal,Registrar,7,Yes,1.0,4,Completed,No,3.3,Saturday,Medium,0.0
+SSR-0073,Enrollment,Student,2025-03-11,Walk-in,Normal,Student Affairs,12,Yes,1.0,5,Completed,No,3.9,Tuesday,Medium,0.0
+SSR-0074,Records,Student,2025-01-06,Portal,Normal,Registrar,12,Yes,7.0,5,Completed,No,4.5,Monday,Medium,1.0
+SSR-0075,Records,Student,2025-01-29,Email,Low,Registrar,12,Yes,,5,Cancelled,Yes,,Wednesday,Medium,
+SSR-0076,Certification,Student,2025-06-15,Walk-in,Normal,Registrar,8,Yes,4.0,4,Completed,No,3.6,Sunday,Medium,0.0
+SSR-0077,Certification,Student,2025-02-07,Portal,Low,Registrar,17,Yes,,4,Cancelled,Yes,,Friday,High,
+SSR-0078,Scholarship Inquiry,Student,2025-11-04,Portal,Low,Scholarship Office,12,Yes,5.0,7,Completed,No,4.1,Tuesday,Medium,0.0
+SSR-0079,IT Support,Student,2025-07-07,Portal,High,IT Services,6,Yes,,3,Pending,No,,Monday,Medium,
+SSR-0080,Enrollment,Student,2025-04-29,Portal,Normal,Student Affairs,10,Yes,4.0,5,Completed,No,4.1,Tuesday,Medium,0.0
+SSR-0081,Scholarship Inquiry,Student,2025-01-02,Portal,Normal,Scholarship Office,11,Yes,4.0,7,Completed,No,5.0,Thursday,Medium,0.0
+SSR-0082,Certification,Student,2025-06-25,Portal,Normal,Registrar,9,Yes,,4,Cancelled,No,,Wednesday,Medium,
+SSR-0083,Enrollment,Student,2025-02-25,Walk-in,Normal,Student Affairs,11,Yes,2.0,5,Completed,No,3.2,Tuesday,Medium,0.0
+SSR-0084,Records,Student,2025-12-23,Portal,Normal,Registrar,12,No,,5,Pending,No,,Tuesday,Medium,
+SSR-0085,Records,Student,2025-04-17,Portal,High,Registrar,13,Yes,1.0,5,Completed,No,,Thursday,Medium,0.0
+SSR-0086,Records,Student,2025-06-23,Portal,High,Registrar,10,No,6.0,5,Completed,No,,Monday,Medium,1.0
+SSR-0087,Scholarship Inquiry,Student,2025-01-07,Portal,Normal,Scholarship Office,5,Yes,8.0,7,Completed,No,3.9,Tuesday,Low,1.0
+SSR-0088,IT Support,Student,2025-02-17,Portal,Normal,IT Services,10,Yes,,3,Completed,No,2.6,Monday,Medium,
+SSR-0089,Records,Student,2025-03-17,Portal,Normal,Registrar,12,Yes,,5,Pending,No,,Monday,Medium,
+SSR-0090,IT Support,Student,2025-01-19,Email,Normal,IT Services,11,Yes,,3,Pending,No,,Sunday,Medium,
+SSR-0091,Records,Student,2025-09-22,Portal,Normal,Registrar,11,No,2.0,5,Completed,No,4.1,Monday,Medium,0.0
+SSR-0092,Scholarship Inquiry,Student,2025-12-12,Walk-in,Normal,Scholarship Office,8,Yes,1.0,7,Completed,No,4.0,Friday,Medium,0.0
+SSR-0093,IT Support,Student,2025-12-26,Portal,Normal,IT Services,10,No,8.0,3,Completed,No,4.3,Friday,Medium,1.0
+SSR-0094,Certification,Student,2025-04-08,Portal,Normal,Registrar,3,Yes,1.0,4,Completed,No,4.7,Tuesday,Low,0.0
+SSR-0095,Certification,Faculty,2025-10-15,Email,Normal,Registrar,7,No,3.0,4,Completed,No,2.9,Wednesday,Medium,0.0
+SSR-0096,Scholarship Inquiry,Student,2025-07-03,Walk-in,Normal,Scholarship Office,16,No,6.0,7,Completed,No,4.9,Thursday,High,0.0
+SSR-0097,Certification,Student,2025-01-17,Portal,Low,Registrar,7,Yes,1.0,4,Completed,No,4.3,Friday,Medium,0.0
+SSR-0098,Records,Student,2025-02-03,Portal,Low,Registrar,8,Yes,,5,Pending,No,,Monday,Medium,
+SSR-0099,Records,Student,2025-07-19,Portal,Normal,Registrar,9,Yes,3.0,5,Completed,No,4.8,Saturday,Medium,0.0
+SSR-0100,Other Campus Service,Student,2025-06-04,Portal,Normal,Student Affairs,13,Yes,2.0,6,Completed,No,3.3,Wednesday,Medium,0.0
+SSR-0101,Enrollment,Student,2025-01-04,Portal,Low,Student Affairs,9,No,4.0,5,Completed,No,4.4,Saturday,Medium,0.0
+SSR-0102,Scholarship Inquiry,Faculty,2025-12-06,Portal,Normal,Scholarship Office,10,Yes,,7,Pending,No,,Saturday,Medium,
+SSR-0103,Certification,Staff,2025-09-24,Portal,Normal,Registrar,7,Yes,4.0,4,Completed,No,3.5,Wednesday,Medium,0.0
+SSR-0104,Other Campus Service,Student,2025-07-03,Portal,Normal,Student Affairs,10,Yes,3.0,6,Completed,No,2.7,Thursday,Medium,0.0
+SSR-0105,Enrollment,Student,2025-12-27,Walk-in,High,Student Affairs,13,Yes,3.0,5,Completed,No,,Saturday,Medium,0.0
+SSR-0106,Scholarship Inquiry,Faculty,2025-12-21,Email,High,Scholarship Office,16,No,,7,Pending,No,,Sunday,High,
+SSR-0107,IT Support,Student,2025-12-22,Portal,Normal,IT Services,11,Yes,3.0,3,Completed,No,4.3,Monday,Medium,0.0
+SSR-0108,Certification,Faculty,2025-04-05,Portal,Normal,Registrar,9,Yes,2.0,4,Completed,No,3.8,Saturday,Medium,0.0
+SSR-0109,Records,Student,2025-11-18,Portal,Low,Registrar,5,No,6.0,5,Completed,No,3.4,Tuesday,Low,1.0
+SSR-0110,Enrollment,Student,2025-07-04,Portal,High,Student Affairs,14,Yes,5.0,5,Completed,No,5.0,Friday,Medium,0.0
+SSR-0111,IT Support,Student,2025-09-23,Email,Normal,IT Services,7,Yes,3.0,3,Completed,No,4.0,Tuesday,Medium,0.0
+SSR-0112,Records,Faculty,2025-11-10,Walk-in,High,Registrar,7,Yes,3.0,5,Completed,No,4.9,Monday,Medium,0.0
+SSR-0113,Certification,Student,2025-03-01,Walk-in,Normal,Registrar,11,Yes,2.0,4,Completed,No,3.9,Saturday,Medium,0.0
+SSR-0114,IT Support,Student,2025-06-13,Walk-in,Low,IT Services,11,Yes,2.0,3,Completed,No,4.9,Friday,Medium,0.0
+SSR-0115,Records,Student,2025-02-17,Walk-in,Low,Registrar,11,No,8.0,5,Completed,No,3.6,Monday,Medium,1.0
+SSR-0116,Enrollment,Student,2025-04-13,Walk-in,Normal,Student Affairs,11,Yes,4.0,5,Completed,No,4.5,Sunday,Medium,0.0
+SSR-0117,Scholarship Inquiry,Student,2025-05-31,Portal,Normal,Scholarship Office,9,No,7.0,7,Completed,No,3.5,Saturday,Medium,0.0
+SSR-0118,Scholarship Inquiry,Student,2025-11-09,Portal,Low,Scholarship Office,10,No,7.0,7,Completed,No,4.2,Sunday,Medium,0.0
+SSR-0119,Certification,Student,2025-11-11,Portal,Normal,Registrar,9,Yes,3.0,4,Completed,No,3.5,Tuesday,Medium,0.0
+SSR-0120,Scholarship Inquiry,Faculty,2025-05-23,Portal,High,Scholarship Office,7,Yes,4.0,7,Completed,No,3.7,Friday,Medium,0.0
+SSR-0121,IT Support,Faculty,2025-05-01,Portal,Normal,Finance Office,6,Yes,5.0,3,Completed,No,3.2,Thursday,Medium,1.0
+SSR-0122,Scholarship Inquiry,Student,2025-07-13,Email,Normal,Scholarship Office,8,Yes,5.0,7,Completed,No,3.9,Sunday,Medium,0.0
+SSR-0123,Records,Student,2025-11-29,Portal,Low,Registrar,10,Yes,,5,Cancelled,No,,Saturday,Medium,
+SSR-0124,Certification,Student,2025-12-23,Portal,Normal,Registrar,17,Yes,6.0,4,Completed,No,4.3,Tuesday,High,1.0
+SSR-0125,Records,Student,2025-03-24,Portal,Normal,Registrar,12,Yes,4.0,5,Completed,No,3.6,Monday,Medium,0.0
+SSR-0126,IT Support,Student,2025-03-10,Portal,High,Finance Office,8,Yes,4.0,3,Completed,No,3.6,Monday,Medium,1.0
+SSR-0127,Certification,Staff,2025-09-15,Portal,Normal,Registrar,12,Yes,4.0,4,Completed,No,4.9,Monday,Medium,0.0
+SSR-0128,Records,Staff,2025-04-21,Email,Normal,Registrar,10,Yes,4.0,5,Completed,No,4.5,Monday,Medium,0.0
+SSR-0129,Records,Student,2025-03-14,Portal,Normal,IT Services,9,Yes,2.0,5,Completed,No,,Friday,Medium,0.0
+SSR-0130,IT Support,Student,2025-01-12,Email,Low,IT Services,5,Yes,,3,Pending,No,,Sunday,Low,
+SSR-0131,Records,Student,2025-05-28,Portal,Normal,Registrar,10,Yes,9.0,5,Completed,No,5.0,Wednesday,Medium,1.0
+SSR-0132,Other Campus Service,Student,2025-05-24,Portal,Normal,Student Affairs,13,Yes,3.0,6,Completed,No,4.3,Saturday,Medium,0.0
+SSR-0133,IT Support,Student,2025-07-25,Portal,Normal,IT Services,11,No,6.0,3,Completed,Yes,3.7,Friday,Medium,1.0
+SSR-0134,Certification,Student,2025-03-15,Email,High,Registrar,14,No,4.0,4,Completed,No,4.7,Saturday,Medium,0.0
+SSR-0135,IT Support,Student,2025-09-18,Email,High,IT Services,16,Yes,,3,Cancelled,No,,Thursday,High,
+SSR-0136,Records,Student,2025-09-06,Portal,High,Registrar,14,Yes,6.0,5,Completed,No,3.4,Saturday,Medium,1.0
+SSR-0137,Other Campus Service,Student,2025-06-18,Walk-in,Low,Student Affairs,7,Yes,3.0,6,Completed,No,3.5,Wednesday,Medium,0.0
+SSR-0138,IT Support,Student,2025-03-08,Portal,Normal,IT Services,9,Yes,2.0,3,Completed,No,4.9,Saturday,Medium,0.0
+SSR-0139,Enrollment,Student,2025-07-05,Walk-in,High,Student Affairs,6,Yes,1.0,5,Completed,Yes,4.6,Saturday,Medium,0.0
+SSR-0140,Records,Faculty,2025-09-04,Portal,Normal,Registrar,9,Yes,2.0,5,Completed,No,3.3,Thursday,Medium,0.0
+SSR-0141,IT Support,Staff,2025-05-17,Portal,Low,IT Services,6,No,2.0,3,Completed,Yes,3.8,Saturday,Medium,0.0
+SSR-0142,IT Support,Student,2025-04-07,Email,Normal,IT Services,15,No,,3,Pending,No,,Monday,Medium,
+SSR-0143,Other Campus Service,Faculty,2025-07-04,Portal,Normal,Registrar,17,Yes,9.0,6,Completed,No,3.8,Friday,High,1.0
+SSR-0144,IT Support,Staff,2025-05-10,Portal,Normal,IT Services,12,Yes,3.0,3,Completed,No,,Saturday,Medium,0.0
+SSR-0145,IT Support,Student,2025-05-27,Portal,High,IT Services,13,Yes,,3,Pending,No,,Tuesday,Medium,
+SSR-0146,Certification,Student,2025-05-08,Portal,Normal,Registrar,6,No,,4,Pending,No,,Thursday,Medium,
+SSR-0147,Certification,Student,2025-04-21,Email,Normal,Registrar,7,Yes,1.0,4,Completed,No,2.7,Monday,Medium,0.0
+SSR-0148,IT Support,Student,2025-09-19,Email,Normal,IT Services,13,Yes,6.0,3,Completed,No,2.8,Friday,Medium,1.0
+SSR-0149,Certification,Student,2025-06-17,Walk-in,Normal,Registrar,13,Yes,3.0,4,Completed,No,4.6,Tuesday,Medium,0.0
+SSR-0150,Records,Student,2025-06-20,Portal,Low,Registrar,10,Yes,3.0,5,Completed,No,2.9,Friday,Medium,0.0
+SSR-0151,Enrollment,Student,2025-08-27,Portal,Normal,Student Affairs,18,Yes,,5,Pending,No,,Wednesday,High,
+SSR-0152,Enrollment,Student,2025-05-12,Portal,High,Student Affairs,16,Yes,5.0,5,Completed,No,4.0,Monday,High,0.0
+SSR-0153,Records,Student,2025-02-06,Portal,Normal,Registrar,9,Yes,3.0,5,Completed,No,,Thursday,Medium,0.0
+SSR-0154,IT Support,Staff,2025-11-08,Portal,Normal,IT Services,8,Yes,,3,Pending,No,,Saturday,Medium,
+SSR-0155,Records,Student,2025-01-21,Walk-in,High,Registrar,7,Yes,2.0,5,Completed,No,,Tuesday,Medium,0.0
+SSR-0156,Scholarship Inquiry,Student,2025-07-28,Walk-in,Low,Scholarship Office,10,Yes,2.0,7,Completed,No,3.6,Monday,Medium,0.0
+SSR-0157,Certification,Student,2025-04-08,Email,Normal,Registrar,11,Yes,4.0,4,Completed,No,4.7,Tuesday,Medium,0.0
+SSR-0158,Scholarship Inquiry,Student,2025-03-20,Portal,Normal,Scholarship Office,9,No,3.0,7,Completed,No,4.9,Thursday,Medium,0.0
+SSR-0159,Scholarship Inquiry,Student,2025-01-16,Portal,Normal,Scholarship Office,7,Yes,,7,Pending,No,,Thursday,Medium,
+SSR-0160,Scholarship Inquiry,Student,2025-11-25,Portal,Low,Scholarship Office,7,Yes,6.0,7,Completed,No,3.2,Tuesday,Medium,0.0
+SSR-0161,Records,Student,2025-06-06,Portal,Normal,Registrar,13,Yes,4.0,5,Completed,No,1.9,Friday,Medium,0.0
+SSR-0162,Other Campus Service,Student,2025-05-06,Portal,Normal,Student Affairs,14,Yes,5.0,6,Completed,No,3.9,Tuesday,Medium,0.0
+SSR-0163,Records,Faculty,2025-09-28,Portal,Normal,Registrar,14,Yes,,5,Cancelled,No,,Sunday,Medium,
+SSR-0164,Records,Student,2025-01-15,Portal,Low,Registrar,13,Yes,6.0,5,Completed,No,2.0,Wednesday,Medium,1.0
+SSR-0165,IT Support,Student,2025-07-26,Walk-in,Normal,IT Services,9,Yes,,3,Cancelled,No,,Saturday,Medium,
+SSR-0166,Certification,Student,2025-06-30,Portal,Normal,Registrar,12,Yes,,4,Pending,No,,Monday,Medium,
+SSR-0167,Enrollment,Student,2025-07-22,Walk-in,Low,Student Affairs,16,Yes,6.0,5,Completed,No,4.2,Tuesday,High,1.0
+SSR-0168,Enrollment,Student,2025-02-15,Portal,Low,IT Services,11,No,,5,Pending,No,,Saturday,Medium,
+SSR-0169,Certification,Student,2025-12-14,Portal,Low,Registrar,9,Yes,3.0,4,Completed,No,,Sunday,Medium,0.0
+SSR-0170,Other Campus Service,Student,2025-03-29,Portal,Normal,Student Affairs,7,No,3.0,6,Completed,Yes,,Saturday,Medium,0.0
+SSR-0171,Certification,Student,2025-09-05,Portal,Low,Registrar,4,No,6.0,4,Completed,No,2.3,Friday,Low,1.0
+SSR-0172,IT Support,Faculty,2025-09-30,Portal,High,IT Services,10,Yes,,3,Pending,No,,Tuesday,Medium,
+SSR-0173,Certification,Student,2025-05-06,Portal,Normal,Registrar,9,Yes,,4,Pending,No,,Tuesday,Medium,
+SSR-0174,Other Campus Service,Student,2025-02-17,Walk-in,Normal,Student Affairs,10,Yes,2.0,6,Completed,No,3.4,Monday,Medium,0.0
+SSR-0175,Records,Faculty,2025-04-19,Portal,High,Registrar,10,Yes,,5,Cancelled,No,,Saturday,Medium,
+SSR-0176,Records,Student,2025-10-22,Portal,Low,Registrar,13,Yes,5.0,5,Completed,Yes,3.1,Wednesday,Medium,0.0
+SSR-0177,Certification,Staff,2025-11-27,Portal,Normal,Registrar,8,Yes,,4,Pending,No,,Thursday,Medium,
+SSR-0178,Other Campus Service,Student,2025-12-08,Portal,High,Student Affairs,14,Yes,,6,Pending,No,,Monday,Medium,
+SSR-0179,Enrollment,Faculty,2025-03-24,Portal,Normal,Student Affairs,11,Yes,4.0,5,Completed,Yes,3.3,Monday,Medium,0.0
+SSR-0180,Scholarship Inquiry,Student,2025-08-10,Portal,Normal,Scholarship Office,12,Yes,1.0,7,Completed,No,2.6,Sunday,Medium,0.0
+SSR-0181,Enrollment,Student,2025-02-25,Walk-in,Normal,Student Affairs,12,Yes,2.0,5,Completed,No,5.0,Tuesday,Medium,0.0
+SSR-0182,Enrollment,Student,2025-09-17,Email,Low,Student Affairs,9,Yes,,5,Pending,No,,Wednesday,Medium,
+SSR-0183,IT Support,Student,2025-06-01,Email,Normal,IT Services,14,No,9.0,3,Completed,No,2.7,Sunday,Medium,1.0
+SSR-0184,Certification,Student,2025-09-18,Portal,High,Registrar,10,Yes,1.0,4,Completed,No,4.0,Thursday,Medium,0.0
+SSR-0185,Enrollment,Staff,2025-09-08,Portal,High,Student Affairs,13,Yes,3.0,5,Completed,No,4.3,Monday,Medium,0.0
+SSR-0186,Scholarship Inquiry,Student,2025-12-29,Walk-in,Low,Scholarship Office,10,Yes,5.0,7,Completed,No,4.9,Monday,Medium,0.0
+SSR-0187,Certification,Student,2025-06-28,Portal,Normal,Registrar,7,Yes,6.0,4,Completed,No,3.5,Saturday,Medium,1.0
+SSR-0188,Records,Student,2025-05-05,Portal,Normal,Registrar,7,Yes,2.0,5,Completed,No,3.8,Monday,Medium,0.0
+SSR-0189,Scholarship Inquiry,Student,2025-07-12,Portal,High,Scholarship Office,7,Yes,,7,Pending,No,,Saturday,Medium,
+SSR-0190,Certification,Student,2025-03-01,Email,Low,Finance Office,10,Yes,6.0,4,Completed,No,3.6,Saturday,Medium,1.0
+SSR-0191,Other Campus Service,Staff,2025-02-10,Email,High,Student Affairs,13,No,,6,Pending,No,,Monday,Medium,
+SSR-0192,Records,Student,2025-07-09,Email,High,Registrar,9,No,6.0,5,Completed,No,,Wednesday,Medium,1.0
+SSR-0193,Records,Student,2025-10-29,Email,Low,Registrar,12,Yes,,5,Cancelled,No,,Wednesday,Medium,
+SSR-0194,Enrollment,Student,2025-07-14,Portal,Low,Student Affairs,6,Yes,,5,Completed,No,4.6,Monday,Medium,
+SSR-0195,Records,Student,2025-10-13,Walk-in,High,Registrar,15,Yes,1.0,5,Completed,No,3.8,Monday,Medium,0.0
+SSR-0196,Records,Student,2025-03-06,Portal,Low,Registrar,8,No,4.0,5,Completed,No,4.3,Thursday,Medium,0.0
+SSR-0197,IT Support,Student,2025-06-14,Email,Normal,IT Services,8,Yes,5.0,3,Completed,No,4.2,Saturday,Medium,1.0
+SSR-0198,Enrollment,Student,2025-08-12,Portal,High,Student Affairs,10,Yes,3.0,5,Completed,No,5.0,Tuesday,Medium,0.0
+SSR-0199,Records,Staff,2025-05-07,Walk-in,Normal,Registrar,10,Yes,,5,Pending,No,,Wednesday,Medium,
+SSR-0200,Certification,Student,2025-01-06,Portal,Normal,Registrar,11,Yes,,4,Completed,No,4.0,Monday,Medium,
+SSR-0201,Enrollment,Student,2025-01-27,Portal,Normal,Student Affairs,14,Yes,3.0,5,Completed,No,3.8,Monday,Medium,0.0
+SSR-0202,Other Campus Service,Student,2025-12-05,Portal,Low,Student Affairs,13,Yes,5.0,6,Completed,No,4.0,Friday,Medium,0.0
+SSR-0203,IT Support,Staff,2025-08-09,Portal,High,IT Services,13,Yes,5.0,3,Completed,No,3.6,Saturday,Medium,1.0
+SSR-0204,Records,Student,2025-04-07,Portal,Normal,Registrar,7,Yes,1.0,5,Completed,No,3.5,Monday,Medium,0.0
+SSR-0205,Records,Staff,2025-04-05,Email,Low,Registrar,12,Yes,3.0,5,Completed,No,3.5,Saturday,Medium,0.0
+SSR-0206,Records,Faculty,2025-01-15,Portal,Normal,Registrar,10,No,6.0,5,Completed,No,,Wednesday,Medium,1.0
+SSR-0207,Records,Faculty,2025-12-11,Walk-in,High,Student Affairs,15,Yes,,5,Cancelled,No,,Thursday,Medium,
+SSR-0208,Scholarship Inquiry,Student,2025-02-09,Portal,Low,Scholarship Office,8,Yes,5.0,7,Completed,No,,Sunday,Medium,0.0
+SSR-0209,Records,Student,2025-10-05,Email,High,Registrar,17,Yes,4.0,5,Completed,No,5.0,Sunday,High,0.0
+SSR-0210,IT Support,Student,2025-03-29,Portal,Normal,IT Services,8,Yes,3.0,3,Completed,No,,Saturday,Medium,0.0
+SSR-0211,Scholarship Inquiry,Student,2025-05-03,Email,High,Scholarship Office,10,Yes,3.0,7,Completed,No,2.9,Saturday,Medium,0.0
+SSR-0212,IT Support,Student,2025-04-10,Portal,High,IT Services,6,Yes,2.0,3,Completed,No,4.2,Thursday,Medium,0.0
+SSR-0213,Records,Staff,2025-10-28,Portal,High,Registrar,5,No,,5,Pending,No,,Tuesday,Low,
+SSR-0214,Enrollment,Staff,2025-01-12,Walk-in,High,Student Affairs,8,Yes,1.0,5,Completed,No,2.9,Sunday,Medium,0.0
+SSR-0215,Scholarship Inquiry,Student,2025-05-09,Portal,Low,Scholarship Office,12,Yes,5.0,7,Completed,No,4.4,Friday,Medium,0.0
+SSR-0216,Scholarship Inquiry,Student,2025-04-12,Portal,Normal,Scholarship Office,9,Yes,,7,Pending,No,,Saturday,Medium,
+SSR-0217,Records,Student,2025-04-10,Email,Normal,Registrar,11,Yes,6.0,5,Completed,No,4.4,Thursday,Medium,1.0
+SSR-0218,Records,Student,2025-03-12,Email,Normal,Registrar,8,Yes,,5,Pending,No,,Wednesday,Medium,
+SSR-0219,Other Campus Service,Student,2025-11-30,Portal,High,Student Affairs,10,Yes,5.0,6,Completed,No,3.2,Sunday,Medium,0.0
+SSR-0220,Certification,Student,2025-05-19,Portal,High,Registrar,11,Yes,5.0,4,Completed,No,2.8,Monday,Medium,1.0
+SSR-0221,Certification,Student,2025-06-02,Walk-in,Normal,Registrar,7,Yes,,4,Pending,No,,Monday,Medium,
+SSR-0222,IT Support,Student,2025-05-21,Email,Normal,IT Services,12,Yes,,3,Pending,Yes,,Wednesday,Medium,
+SSR-0223,Scholarship Inquiry,Staff,2025-12-24,Walk-in,Normal,Scholarship Office,6,Yes,,7,Pending,No,,Wednesday,Medium,
+SSR-0224,Other Campus Service,Student,2025-05-04,Portal,Normal,Student Affairs,14,No,6.0,6,Completed,No,4.8,Sunday,Medium,0.0
+SSR-0225,Certification,Staff,2025-05-05,Email,Normal,Registrar,2,Yes,,4,Pending,No,,Monday,Low,
+SSR-0226,Other Campus Service,Student,2025-04-30,Portal,Normal,Scholarship Office,10,No,6.0,6,Completed,No,4.0,Wednesday,Medium,0.0
+SSR-0227,Records,Faculty,2025-04-30,Walk-in,Low,Registrar,11,No,7.0,5,Completed,No,4.2,Wednesday,Medium,1.0
+SSR-0228,IT Support,Student,2025-02-02,Portal,Low,IT Services,16,No,4.0,3,Completed,No,3.3,Sunday,High,1.0
+SSR-0229,Scholarship Inquiry,Student,2025-08-09,Email,Normal,Scholarship Office,12,Yes,2.0,7,Completed,No,3.8,Saturday,Medium,0.0
+SSR-0230,Records,Faculty,2025-01-10,Portal,Normal,Registrar,12,Yes,8.0,5,Completed,No,3.5,Friday,Medium,1.0
+SSR-0231,Records,Staff,2025-03-24,Portal,High,Registrar,7,Yes,2.0,5,Completed,No,5.0,Monday,Medium,0.0
+SSR-0232,Certification,Faculty,2025-03-15,Email,Normal,Registrar,12,Yes,2.0,4,Completed,No,4.6,Saturday,Medium,0.0
+SSR-0233,Other Campus Service,Student,2025-04-17,Portal,Low,Student Affairs,9,Yes,,6,Pending,No,,Thursday,Medium,
+SSR-0234,IT Support,Student,2025-10-04,Walk-in,Low,IT Services,13,Yes,,3,Pending,No,,Saturday,Medium,
+SSR-0235,Other Campus Service,Student,2025-08-07,Portal,Low,Student Affairs,11,No,7.0,6,Completed,Yes,2.9,Thursday,Medium,1.0
+SSR-0236,Enrollment,Student,2025-12-28,Email,High,Student Affairs,8,Yes,,5,Pending,No,,Sunday,Medium,
+SSR-0237,IT Support,Student,2025-05-09,Portal,Low,IT Services,9,Yes,3.0,3,Completed,No,4.1,Friday,Medium,0.0
+SSR-0238,Enrollment,Student,2025-12-05,Portal,Normal,Student Affairs,7,Yes,3.0,5,Completed,No,3.7,Friday,Medium,0.0
+SSR-0239,Records,Student,2025-01-17,Portal,High,Registrar,11,Yes,,5,Pending,No,,Friday,Medium,
+SSR-0240,Records,Faculty,2025-07-04,Portal,High,Registrar,9,Yes,3.0,5,Completed,No,3.6,Friday,Medium,0.0
+SSR-0241,Enrollment,Student,2025-10-19,Portal,Low,Registrar,9,Yes,4.0,5,Completed,No,4.4,Sunday,Medium,0.0
+SSR-0242,Enrollment,Faculty,2025-07-14,Email,Low,Student Affairs,8,No,9.0,5,Completed,Yes,3.7,Monday,Medium,1.0
+SSR-0243,Records,Student,2025-12-07,Email,Low,Registrar,16,Yes,5.0,5,Completed,Yes,3.3,Sunday,High,0.0
+SSR-0244,IT Support,Student,2025-04-25,Email,Low,IT Services,9,Yes,,3,Pending,No,,Friday,Medium,
+SSR-0245,IT Support,Student,2025-01-13,Portal,Low,IT Services,10,Yes,4.0,3,Completed,No,3.5,Monday,Medium,1.0
+SSR-0246,Enrollment,Faculty,2025-10-10,Portal,Normal,Student Affairs,10,Yes,8.0,5,Completed,No,3.1,Friday,Medium,1.0
+SSR-0247,IT Support,Student,2025-01-25,Portal,High,IT Services,5,Yes,4.0,3,Completed,No,3.8,Saturday,Low,1.0
+SSR-0248,Certification,Student,2025-10-07,Email,Normal,Registrar,6,Yes,1.0,4,Completed,No,3.5,Tuesday,Medium,0.0
+SSR-0249,Certification,Student,2025-09-25,Email,Normal,Registrar,10,Yes,4.0,4,Completed,No,3.9,Thursday,Medium,0.0
+SSR-0250,Certification,Student,2025-11-05,Portal,Low,Registrar,7,Yes,,4,Pending,No,,Wednesday,Medium,
+SSR-0251,Scholarship Inquiry,Student,2025-06-24,Email,Normal,Scholarship Office,7,Yes,1.0,7,Completed,No,3.6,Tuesday,Medium,0.0
+SSR-0252,Enrollment,Faculty,2025-11-23,Portal,Normal,Student Affairs,9,Yes,,5,Pending,No,,Sunday,Medium,
+SSR-0253,IT Support,Student,2025-03-03,Portal,High,IT Services,5,Yes,2.0,3,Completed,No,2.7,Monday,Low,0.0
+SSR-0254,Records,Student,2025-06-08,Portal,High,Registrar,8,No,,5,Pending,No,,Sunday,Medium,
+SSR-0255,Records,Faculty,2025-02-14,Portal,Normal,Registrar,7,Yes,1.0,5,Completed,No,5.0,Friday,Medium,0.0
+SSR-0256,Scholarship Inquiry,Student,2025-10-07,Email,Low,Scholarship Office,16,No,7.0,7,Completed,Yes,4.0,Tuesday,High,0.0
+SSR-0257,Enrollment,Faculty,2025-09-18,Walk-in,Low,Student Affairs,6,Yes,3.0,5,Completed,No,5.0,Thursday,Medium,0.0
+SSR-0258,Records,Student,2025-10-22,Portal,Normal,Registrar,7,Yes,4.0,5,Completed,No,4.0,Wednesday,Medium,0.0
+SSR-0259,Records,Student,2025-10-06,Portal,High,Registrar,9,Yes,,5,Pending,No,,Monday,Medium,
+SSR-0260,IT Support,Student,2025-04-23,Email,Normal,IT Services,16,Yes,5.0,3,Completed,No,4.0,Wednesday,High,1.0
+SSR-0261,Records,Student,2025-01-25,Walk-in,Normal,Registrar,11,No,,5,Cancelled,No,,Saturday,Medium,
+SSR-0262,Enrollment,Faculty,2025-12-06,Portal,Normal,Student Affairs,6,Yes,6.0,5,Completed,No,3.0,Saturday,Medium,1.0
+SSR-0263,Certification,Student,2025-06-29,Portal,Low,Registrar,12,No,3.0,4,Completed,No,3.5,Sunday,Medium,0.0
+SSR-0264,Records,Student,2025-02-04,Email,Normal,Registrar,6,No,3.0,5,Completed,No,4.0,Tuesday,Medium,0.0
+SSR-0265,Other Campus Service,Student,2025-12-05,Portal,Normal,Student Affairs,14,Yes,5.0,6,Completed,No,5.0,Friday,Medium,0.0
+SSR-0266,Records,Student,2025-12-29,Walk-in,Normal,Registrar,12,Yes,7.0,5,Completed,No,2.8,Monday,Medium,1.0
+SSR-0267,Certification,Faculty,2025-06-12,Portal,Normal,Registrar,11,Yes,4.0,4,Completed,No,2.5,Thursday,Medium,0.0
+SSR-0268,Records,Staff,2025-10-09,Email,Low,Registrar,11,Yes,,5,Cancelled,No,,Thursday,Medium,
+SSR-0269,Records,Student,2025-01-14,Portal,Normal,Registrar,12,Yes,4.0,5,Completed,No,4.8,Tuesday,Medium,0.0
+SSR-0270,Records,Student,2025-02-04,Portal,Low,Registrar,7,Yes,2.0,5,Completed,Yes,4.6,Tuesday,Medium,0.0
+SSR-0271,Records,Student,2025-04-11,Walk-in,High,Registrar,14,No,5.0,5,Completed,No,3.7,Friday,Medium,0.0
+SSR-0272,Records,Student,2025-08-28,Portal,Low,Registrar,10,Yes,2.0,5,Completed,Yes,5.0,Thursday,Medium,0.0
+SSR-0273,Records,Staff,2025-02-18,Portal,Low,Registrar,5,Yes,1.0,5,Completed,Yes,5.0,Tuesday,Low,0.0
+SSR-0274,IT Support,Student,2025-01-13,Walk-in,Normal,IT Services,7,Yes,4.0,3,Completed,No,2.1,Monday,Medium,1.0
+SSR-0275,Scholarship Inquiry,Student,2025-09-02,Email,Normal,Scholarship Office,6,Yes,1.0,7,Completed,No,3.5,Tuesday,Medium,0.0
+SSR-0276,Certification,Student,2025-10-09,Portal,Normal,Registrar,9,No,6.0,4,Completed,No,,Thursday,Medium,1.0
+SSR-0277,Certification,Staff,2025-09-27,Portal,Normal,Registrar,14,Yes,1.0,4,Completed,No,5.0,Saturday,Medium,0.0
+SSR-0278,IT Support,Student,2025-10-19,Portal,High,IT Services,13,No,6.0,3,Completed,No,3.7,Sunday,Medium,1.0
+SSR-0279,Enrollment,Student,2025-10-21,Email,Normal,Student Affairs,15,Yes,3.0,5,Completed,No,4.0,Tuesday,Medium,0.0
+SSR-0280,Enrollment,Student,2025-08-08,Portal,Normal,Student Affairs,8,No,8.0,5,Completed,No,2.7,Friday,Medium,1.0
+SSR-0281,Records,Student,2025-07-09,Portal,Normal,Registrar,15,Yes,5.0,5,Completed,No,4.4,Wednesday,Medium,0.0
+SSR-0282,Records,Student,2025-11-09,Walk-in,Low,Registrar,19,No,9.0,5,Completed,No,4.0,Sunday,High,1.0
+SSR-0283,Records,Student,2025-05-08,Walk-in,Normal,Registrar,11,Yes,,5,Pending,No,,Thursday,Medium,
+SSR-0284,Records,Student,2025-02-05,Email,Low,Registrar,10,Yes,4.0,5,Completed,No,4.7,Wednesday,Medium,0.0
+SSR-0285,IT Support,Student,2025-10-02,Walk-in,Normal,IT Services,8,Yes,1.0,3,Completed,No,3.1,Thursday,Medium,0.0
+SSR-0286,Certification,Student,2025-04-11,Email,Low,Registrar,7,Yes,2.0,4,Completed,No,,Friday,Medium,0.0
+SSR-0287,Records,Student,2025-12-24,Email,High,Registrar,11,Yes,3.0,5,Completed,No,4.2,Wednesday,Medium,0.0
+SSR-0288,Certification,Staff,2025-06-01,Email,Normal,Registrar,16,Yes,3.0,4,Completed,No,3.3,Sunday,High,0.0
+SSR-0289,IT Support,Student,2025-11-07,Portal,High,IT Services,13,Yes,,3,Pending,Yes,,Friday,Medium,
+SSR-0290,Records,Student,2025-01-16,Portal,Normal,Registrar,12,Yes,,5,Pending,No,,Thursday,Medium,
+SSR-0291,Enrollment,Student,2025-08-29,Portal,Low,Student Affairs,14,Yes,1.0,5,Completed,No,2.7,Friday,Medium,0.0
+SSR-0292,Records,Faculty,2025-06-13,Email,High,Registrar,8,Yes,1.0,5,Completed,No,2.8,Friday,Medium,0.0
+SSR-0293,Other Campus Service,Student,2025-06-18,Portal,Normal,Student Affairs,11,Yes,5.0,6,Completed,No,3.7,Wednesday,Medium,0.0
+SSR-0294,Records,Student,2025-04-07,Portal,Normal,IT Services,7,Yes,1.0,5,Completed,No,4.3,Monday,Medium,0.0
+SSR-0295,Enrollment,Staff,2025-12-21,Portal,Normal,Student Affairs,10,Yes,1.0,5,Completed,No,3.6,Sunday,Medium,0.0
+SSR-0296,Enrollment,Student,2025-05-24,Portal,Normal,Student Affairs,11,Yes,7.0,5,Completed,No,3.9,Saturday,Medium,1.0
+SSR-0297,Other Campus Service,Student,2025-11-07,Portal,High,Student Affairs,13,Yes,2.0,6,Completed,No,3.4,Friday,Medium,0.0
+SSR-0298,Enrollment,Student,2025-06-05,Email,Normal,Student Affairs,10,No,6.0,5,Completed,No,4.2,Thursday,Medium,1.0
+SSR-0299,Enrollment,Student,2025-01-18,Email,Normal,Registrar,10,Yes,5.0,5,Completed,No,4.7,Saturday,Medium,0.0
+SSR-0300,Scholarship Inquiry,Student,2025-11-17,Portal,Normal,Registrar,11,Yes,5.0,7,Completed,Yes,5.0,Monday,Medium,0.0
+SSR-0301,Enrollment,Student,2025-03-09,Portal,Normal,Student Affairs,12,Yes,1.0,5,Completed,No,4.8,Sunday,Medium,0.0
+SSR-0302,Records,Student,2025-04-09,Portal,High,Student Affairs,13,Yes,3.0,5,Completed,No,4.0,Wednesday,Medium,0.0
+SSR-0303,IT Support,Student,2025-11-11,Email,Normal,IT Services,5,Yes,1.0,3,Completed,No,4.3,Tuesday,Low,0.0
+SSR-0304,IT Support,Faculty,2025-11-23,Email,Normal,IT Services,12,Yes,8.0,3,Completed,No,4.2,Sunday,Medium,1.0
+SSR-0305,Enrollment,Student,2025-12-01,Portal,Normal,Student Affairs,12,Yes,,5,Pending,No,,Monday,Medium,
+SSR-0306,IT Support,Student,2025-06-05,Email,Normal,IT Services,5,Yes,1.0,3,Completed,No,3.6,Thursday,Low,0.0
+SSR-0307,Certification,Faculty,2025-10-04,Portal,Normal,Registrar,7,Yes,1.0,4,Completed,No,3.5,Saturday,Medium,0.0
+SSR-0308,Scholarship Inquiry,Faculty,2025-04-30,Portal,Normal,Registrar,12,Yes,2.0,7,Completed,No,3.3,Wednesday,Medium,0.0
+SSR-0309,Certification,Student,2025-09-28,Walk-in,Low,Registrar,11,No,8.0,4,Completed,No,2.9,Sunday,Medium,1.0
+SSR-0310,Records,Student,2025-07-03,Portal,Normal,Registrar,6,No,9.0,5,Completed,No,4.2,Thursday,Medium,1.0
+SSR-0311,IT Support,Staff,2025-01-19,Portal,Low,Registrar,14,No,,3,Pending,No,,Sunday,Medium,
+SSR-0312,Certification,Student,2025-06-02,Portal,Low,Registrar,9,No,3.0,4,Completed,No,4.6,Monday,Medium,0.0
+SSR-0313,Records,Faculty,2025-06-20,Portal,Normal,Registrar,4,Yes,,5,Pending,Yes,,Friday,Low,
+SSR-0314,Certification,Staff,2025-04-04,Walk-in,Normal,Registrar,12,Yes,3.0,4,Completed,No,4.8,Friday,Medium,0.0
+SSR-0315,Certification,Faculty,2025-05-17,Walk-in,High,Registrar,11,Yes,2.0,4,Completed,No,5.0,Saturday,Medium,0.0
+SSR-0316,Certification,Student,2025-07-03,Portal,Normal,Registrar,9,Yes,2.0,4,Completed,No,4.3,Thursday,Medium,0.0
+SSR-0317,Certification,Student,2025-01-19,Portal,Low,Registrar,5,Yes,3.0,4,Completed,No,3.9,Sunday,Low,0.0
+SSR-0318,Scholarship Inquiry,Student,2025-02-25,Email,High,Scholarship Office,13,No,7.0,7,Completed,No,5.0,Tuesday,Medium,0.0
+SSR-0319,Certification,Student,2025-10-07,Portal,Low,Registrar,10,Yes,4.0,4,Completed,No,4.6,Tuesday,Medium,0.0
+SSR-0320,Other Campus Service,Staff,2025-05-09,Walk-in,Low,Student Affairs,6,Yes,3.0,6,Completed,No,4.4,Friday,Medium,0.0
+SSR-0321,Other Campus Service,Student,2025-08-11,Email,Normal,Student Affairs,8,Yes,1.0,6,Completed,No,2.8,Monday,Medium,0.0
+SSR-0322,IT Support,Student,2025-07-26,Portal,Normal,IT Services,9,Yes,4.0,3,Completed,No,3.9,Saturday,Medium,1.0
+SSR-0323,Certification,Student,2025-07-21,Email,High,Registrar,14,Yes,3.0,4,Completed,No,4.4,Monday,Medium,0.0
+SSR-0324,IT Support,Staff,2025-05-31,Portal,Normal,IT Services,9,Yes,5.0,3,Completed,No,2.7,Saturday,Medium,1.0
+SSR-0325,Enrollment,Student,2025-06-26,Portal,Normal,Student Affairs,7,Yes,4.0,5,Completed,No,2.8,Thursday,Medium,0.0
+SSR-0326,Scholarship Inquiry,Student,2025-10-28,Portal,Low,Scholarship Office,9,Yes,2.0,7,Completed,No,4.6,Tuesday,Medium,0.0
+SSR-0327,Enrollment,Student,2025-12-19,Portal,Normal,Student Affairs,15,No,3.0,5,Completed,No,4.7,Friday,Medium,0.0
+SSR-0328,IT Support,Student,2025-04-04,Email,Normal,IT Services,11,Yes,2.0,3,Completed,No,3.5,Friday,Medium,0.0
+SSR-0329,Scholarship Inquiry,Student,2025-09-02,Email,Low,IT Services,8,Yes,2.0,7,Completed,No,,Tuesday,Medium,0.0
+SSR-0330,Certification,Student,2025-12-20,Walk-in,Normal,Registrar,8,Yes,4.0,4,Completed,No,2.5,Saturday,Medium,0.0
+SSR-0331,Scholarship Inquiry,Student,2025-01-03,Walk-in,Normal,Scholarship Office,9,Yes,5.0,7,Completed,No,3.6,Friday,Medium,0.0
+SSR-0332,Records,Student,2025-10-14,Portal,Low,Registrar,15,Yes,7.0,5,Completed,No,5.0,Tuesday,Medium,1.0
+SSR-0333,Scholarship Inquiry,Student,2025-07-01,Portal,Normal,Scholarship Office,18,No,8.0,7,Completed,No,3.8,Tuesday,High,1.0
+SSR-0334,Enrollment,Student,2025-12-20,Email,Normal,Student Affairs,3,Yes,3.0,5,Completed,Yes,4.7,Saturday,Low,0.0
+SSR-0335,Records,Student,2025-07-31,Walk-in,Low,Registrar,9,Yes,6.0,5,Completed,Yes,3.8,Thursday,Medium,1.0
+SSR-0336,Scholarship Inquiry,Student,2025-11-02,Portal,Normal,Scholarship Office,13,Yes,,7,Pending,No,,Sunday,Medium,
+SSR-0337,Records,Student,2025-03-02,Portal,Normal,Registrar,12,No,,5,Pending,No,,Sunday,Medium,
+SSR-0338,Scholarship Inquiry,Student,2025-02-21,Portal,Normal,Scholarship Office,11,Yes,7.0,7,Completed,No,3.4,Friday,Medium,0.0
+SSR-0339,Records,Student,2025-12-05,Portal,Normal,Registrar,16,Yes,4.0,5,Completed,No,5.0,Friday,High,0.0
+SSR-0340,Other Campus Service,Student,2025-07-12,Email,Normal,Scholarship Office,7,No,,6,Completed,No,,Saturday,Medium,
+SSR-0341,Records,Student,2025-07-23,Portal,High,Registrar,11,Yes,,5,Pending,No,,Wednesday,Medium,
+SSR-0342,Other Campus Service,Student,2025-03-04,Email,Normal,Student Affairs,11,Yes,5.0,6,Completed,No,4.3,Tuesday,Medium,0.0
+SSR-0343,Enrollment,Faculty,2025-03-24,Email,Normal,Student Affairs,12,Yes,6.0,5,Completed,No,3.6,Monday,Medium,1.0
+SSR-0344,IT Support,Student,2025-10-26,Email,Low,IT Services,8,Yes,3.0,3,Completed,No,3.4,Sunday,Medium,0.0
+SSR-0345,Enrollment,Student,2025-04-21,Portal,Normal,Student Affairs,8,No,8.0,5,Completed,No,,Monday,Medium,1.0
+SSR-0346,Enrollment,Student,2025-08-02,Portal,Normal,Student Affairs,9,Yes,1.0,5,Completed,No,4.3,Saturday,Medium,0.0
+SSR-0347,Other Campus Service,Student,2025-04-26,Email,Normal,Student Affairs,7,Yes,,6,Pending,No,,Saturday,Medium,
+SSR-0348,Certification,Student,2025-04-07,Email,Normal,Registrar,6,Yes,,4,Pending,No,,Monday,Medium,
+SSR-0349,IT Support,Faculty,2025-03-02,Portal,Normal,Registrar,16,Yes,3.0,3,Completed,No,3.4,Sunday,High,0.0
+SSR-0350,Records,Faculty,2025-12-06,Walk-in,Normal,Registrar,15,Yes,8.0,5,Completed,No,4.5,Saturday,Medium,1.0
+SSR-0351,Scholarship Inquiry,Student,2025-12-10,Portal,Low,Scholarship Office,9,Yes,4.0,7,Completed,No,5.0,Wednesday,Medium,0.0
+SSR-0352,Records,Student,2025-02-12,Walk-in,Normal,IT Services,11,Yes,3.0,5,Completed,No,3.8,Wednesday,Medium,0.0
+SSR-0353,IT Support,Student,2025-05-09,Portal,Normal,IT Services,7,Yes,3.0,3,Completed,No,4.6,Friday,Medium,0.0
+SSR-0354,IT Support,Student,2025-07-25,Portal,Normal,IT Services,11,Yes,1.0,3,Completed,No,3.2,Friday,Medium,0.0
+SSR-0355,IT Support,Student,2025-05-20,Portal,Low,IT Services,6,Yes,,3,Pending,No,,Tuesday,Medium,
+SSR-0356,IT Support,Student,2025-09-21,Portal,Normal,IT Services,8,Yes,,3,Cancelled,Yes,,Sunday,Medium,
+SSR-0357,Scholarship Inquiry,Student,2025-04-05,Portal,High,Scholarship Office,18,Yes,3.0,7,Completed,No,3.9,Saturday,High,0.0
+SSR-0358,Enrollment,Staff,2025-01-22,Portal,Normal,Scholarship Office,12,Yes,2.0,5,Completed,No,4.9,Wednesday,Medium,0.0
+SSR-0359,IT Support,Student,2025-05-03,Portal,Normal,IT Services,12,Yes,6.0,3,Completed,No,4.6,Saturday,Medium,1.0
+SSR-0360,IT Support,Student,2025-08-07,Email,High,IT Services,7,Yes,5.0,3,Completed,No,3.7,Thursday,Medium,1.0
+SSR-0361,Other Campus Service,Student,2025-03-07,Portal,High,Student Affairs,12,Yes,4.0,6,Completed,No,2.8,Friday,Medium,0.0
+SSR-0362,Records,Student,2025-10-25,Email,Normal,Registrar,9,Yes,3.0,5,Completed,No,3.3,Saturday,Medium,0.0
+SSR-0363,Records,Student,2025-01-05,Email,High,Registrar,7,No,4.0,5,Completed,No,,Sunday,Medium,0.0
+SSR-0364,Records,Student,2025-01-25,Portal,High,Registrar,6,Yes,,5,Pending,No,,Saturday,Medium,
+SSR-0365,Scholarship Inquiry,Staff,2025-07-05,Portal,Normal,Scholarship Office,14,Yes,3.0,7,Completed,No,5.0,Saturday,Medium,0.0
+SSR-0366,Certification,Student,2025-07-06,Email,Normal,Student Affairs,8,Yes,1.0,4,Completed,No,4.4,Sunday,Medium,0.0
+SSR-0367,Enrollment,Student,2025-04-18,Email,Low,Student Affairs,12,Yes,3.0,5,Completed,No,4.3,Friday,Medium,0.0
+SSR-0368,Scholarship Inquiry,Student,2025-04-05,Portal,Low,Scholarship Office,9,Yes,,7,Cancelled,No,,Saturday,Medium,
+SSR-0369,Certification,Student,2025-01-26,Email,Normal,Registrar,5,Yes,1.0,4,Completed,No,4.2,Sunday,Low,0.0
+SSR-0370,Enrollment,Student,2025-08-30,Portal,Normal,Student Affairs,15,Yes,4.0,5,Completed,No,,Saturday,Medium,0.0
+SSR-0371,Scholarship Inquiry,Student,2025-05-19,Portal,Normal,Scholarship Office,9,Yes,4.0,7,Completed,No,3.2,Monday,Medium,0.0
+SSR-0372,Certification,Student,2025-02-13,Email,Normal,Registrar,4,No,7.0,4,Completed,No,4.2,Thursday,Low,1.0
+SSR-0373,Certification,Student,2025-05-26,Portal,Normal,Registrar,5,Yes,,4,Cancelled,No,,Monday,Low,
+SSR-0374,Certification,Faculty,2025-12-09,Email,High,Registrar,11,Yes,3.0,4,Completed,No,,Tuesday,Medium,0.0
+SSR-0375,Records,Student,2025-04-06,Portal,Low,Registrar,12,No,,5,Pending,No,,Sunday,Medium,
+SSR-0376,Records,Faculty,2025-11-23,Email,Low,Registrar,8,No,5.0,5,Completed,No,4.2,Sunday,Medium,0.0
+SSR-0377,Other Campus Service,Student,2025-04-05,Portal,Normal,Student Affairs,12,Yes,5.0,6,Completed,No,4.1,Saturday,Medium,0.0
+SSR-0378,Certification,Student,2025-03-09,Portal,High,Registrar,13,Yes,4.0,4,Completed,No,3.9,Sunday,Medium,0.0
+SSR-0379,Certification,Student,2025-04-06,Portal,High,Registrar,7,Yes,3.0,4,Completed,No,,Sunday,Medium,0.0
+SSR-0380,Scholarship Inquiry,Faculty,2025-04-28,Portal,High,Scholarship Office,10,Yes,3.0,7,Completed,No,5.0,Monday,Medium,0.0
+SSR-0381,IT Support,Student,2025-02-14,Email,High,IT Services,5,Yes,2.0,3,Completed,No,4.0,Friday,Low,0.0
+SSR-0382,Other Campus Service,Staff,2025-08-03,Portal,Normal,Student Affairs,5,Yes,1.0,6,Completed,No,4.2,Sunday,Low,0.0
+SSR-0383,Enrollment,Student,2025-05-02,Portal,Normal,Student Affairs,8,Yes,,5,Pending,No,,Friday,Medium,
+SSR-0384,IT Support,Student,2025-09-20,Portal,Normal,IT Services,8,Yes,,3,Cancelled,No,,Saturday,Medium,
+SSR-0385,Certification,Staff,2025-06-29,Portal,Normal,Registrar,10,Yes,1.0,4,Completed,No,3.3,Sunday,Medium,0.0
+SSR-0386,Other Campus Service,Student,2025-06-11,Email,High,Student Affairs,10,Yes,4.0,6,Completed,No,,Wednesday,Medium,0.0
+SSR-0387,Scholarship Inquiry,Faculty,2025-06-21,Portal,Normal,Scholarship Office,10,Yes,,7,Pending,No,,Saturday,Medium,
+SSR-0388,Other Campus Service,Student,2025-02-27,Walk-in,Normal,Student Affairs,13,Yes,2.0,6,Completed,No,2.5,Thursday,Medium,0.0
+SSR-0389,Records,Faculty,2025-09-18,Portal,Normal,Registrar,8,No,,5,Pending,No,,Thursday,Medium,
+SSR-0390,Enrollment,Student,2025-02-08,Email,Low,Student Affairs,2,Yes,1.0,5,Completed,No,3.7,Saturday,Low,0.0
+SSR-0391,Scholarship Inquiry,Student,2025-09-21,Portal,Low,Scholarship Office,12,Yes,,7,Completed,No,3.6,Sunday,Medium,
+SSR-0392,Records,Student,2025-12-31,Portal,Low,Registrar,10,Yes,3.0,5,Completed,No,5.0,Wednesday,Medium,0.0
+SSR-0393,IT Support,Student,2025-10-06,Walk-in,High,IT Services,7,Yes,4.0,3,Completed,No,3.7,Monday,Medium,1.0
+SSR-0394,Scholarship Inquiry,Student,2025-06-16,Walk-in,Normal,Scholarship Office,11,Yes,3.0,7,Completed,No,3.6,Monday,Medium,0.0
+SSR-0395,Records,Student,2025-04-25,Walk-in,High,Registrar,12,Yes,5.0,5,Completed,No,4.0,Friday,Medium,0.0
+SSR-0396,IT Support,Student,2025-11-15,Portal,Normal,IT Services,13,Yes,,3,Pending,No,,Saturday,Medium,
+SSR-0397,Enrollment,Student,2025-04-04,Portal,Low,Student Affairs,10,Yes,,5,Cancelled,No,,Friday,Medium,
+SSR-0398,Certification,Student,2025-06-26,Email,Low,Registrar,5,Yes,1.0,4,Completed,No,4.6,Thursday,Low,0.0
+SSR-0399,IT Support,Student,2025-10-09,Portal,Normal,IT Services,5,Yes,3.0,3,Completed,No,,Thursday,Low,0.0
+SSR-0400,IT Support,Student,2025-12-03,Email,Normal,IT Services,11,Yes,5.0,3,Completed,No,3.0,Wednesday,Medium,1.0
